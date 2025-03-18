@@ -1,0 +1,5 @@
+- arrumar na venda de produto, deve-se puxar a informação do produto selecionado. OK
+- tirar opção de adcioar mais produtos. OK
+- ao realizar saida, deve-se ir para a view com o qr code da saida em questão. OK
+- relatorios, gerar relatorio de produto com estoque. OK
+- relatorios, gerar relatorio de produto sem estoque.
